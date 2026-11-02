@@ -1,0 +1,3 @@
+VIVA Gráficos PRO 1.4 — revisión de calidad.
+Correcciones: CSV con comillas, valores originales en exportación, filas de comparativa, validación de datos, categorías duplicadas y límites numéricos.
+Descomprimir en hosting estático. Los borradores se guardan localmente en el navegador.
